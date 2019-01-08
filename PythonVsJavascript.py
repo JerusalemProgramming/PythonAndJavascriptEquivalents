@@ -53,7 +53,29 @@ AnyVariableName.length;
 PythonList = []
 
 # JAVASCRIPT
-JavascriptArray = [];
+var JavascriptArray = [];
+let JavascriptArray = [];
 
+## ADD ELEMENT TO LIST / ARRAY
+## ADD ELEMENT TO LIST / ARRAY
+## ADD ELEMENT TO LIST / ARRAY
+
+
+## PYTHON
+PythonList.append(AnyVariableName)
+
+# JAVASCRIPT
+JavascriptArray.push(AnyVariableName);
+
+
+## POP/UNSHIFT ELEMENT FROM LIST / ARRAY
+## POP/UNSHIFT ELEMENT FROM LIST / ARRAY
+## POP/UNSHIFT ELEMENT FROM LIST / ARRAY
+
+## PYTHON
+PythonList.pop(AnyVariableName)
+
+# JAVASCRIPT
+JavascriptArray.unshift(AnyVariableName);
 
 
