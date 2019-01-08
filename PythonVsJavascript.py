@@ -153,3 +153,17 @@ PythonList.pop(AnyVariableName)
 JavascriptArray.pop(AnyVariableName);
 
 
+
+## CREATE PYTHON DICTIONARY / JAVASCRIPT OBJECT
+## CREATE PYTHON DICTIONARY / JAVASCRIPT OBJECT
+## CREATE PYTHON DICTIONARY / JAVASCRIPT OBJECT
+
+## PYTHON
+PythonDictionary = {}
+
+# JAVASCRIPT
+var JavascriptObject = {};
+
+
+
+
