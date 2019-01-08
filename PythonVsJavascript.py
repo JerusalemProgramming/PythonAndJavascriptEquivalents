@@ -68,14 +68,14 @@ PythonList.append(AnyVariableName)
 JavascriptArray.push(AnyVariableName);
 
 
-## POP/UNSHIFT ELEMENT FROM LIST / ARRAY
-## POP/UNSHIFT ELEMENT FROM LIST / ARRAY
-## POP/UNSHIFT ELEMENT FROM LIST / ARRAY
+## POP ELEMENT FROM LIST / ARRAY
+## POP ELEMENT FROM LIST / ARRAY
+## POP ELEMENT FROM LIST / ARRAY
 
 ## PYTHON
 PythonList.pop(AnyVariableName)
 
 # JAVASCRIPT
-JavascriptArray.unshift(AnyVariableName);
+JavascriptArray.pop(AnyVariableName);
 
 
