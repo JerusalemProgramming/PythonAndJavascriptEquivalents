@@ -146,7 +146,7 @@ let JavascriptArray = [];
 PythonList.append(AnyVariableName)
 
 # JAVASCRIPT
-JavascriptArray.push(AnyVariableName);
+var JavascriptArray.push(AnyVariableName);
 
 
 ## POP ELEMENT FROM LIST / ARRAY
@@ -157,7 +157,7 @@ JavascriptArray.push(AnyVariableName);
 PythonList.pop(AnyVariableName)
 
 # JAVASCRIPT
-JavascriptArray.pop(AnyVariableName);
+var JavascriptArray.pop(AnyVariableName);
 
 
 
