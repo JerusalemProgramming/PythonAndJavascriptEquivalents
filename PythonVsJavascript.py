@@ -11,6 +11,18 @@ AnyVariableName = "Whatever String, Number, or other Object"
 var AnyVariableName = "Whatever String, Number, or other Object";
 let AnyVariableName = "Whatever String, Number, or other Object";
 
+
+## PRINT TO CONSOLE
+## PRINT TO CONSOLE
+## PRINT TO CONSOLE
+
+## PYTHON
+print(AnyVariableName)
+
+## JAVASCRIPT
+console.log(AnyVariableName);
+
+
 ## CHECK TYPE OF OBJECT
 ## CHECK TYPE OF OBJECT
 ## CHECK TYPE OF OBJECT
@@ -21,6 +33,7 @@ type(AnyVariableName)
 ## JAVASCRIPT
 typeof(AnyVariableName);
 
+
 ## RETURN LENGTH OF OBJECT
 ## RETURN LENGTH OF OBJECT
 ## RETURN LENGTH OF OBJECT
@@ -30,6 +43,7 @@ len(AnyVariableName)
 
 ## JAVASCRIPT
 AnyVariableName.length;
+
 
 ## CREATE LIST / ARRAY
 ## CREATE LIST / ARRAY
