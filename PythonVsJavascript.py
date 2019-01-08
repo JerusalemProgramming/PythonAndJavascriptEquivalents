@@ -45,6 +45,53 @@ len(AnyVariableName)
 AnyVariableName.length;
 
 
+
+
+
+
+
+## IF / ELSE CONDITIONALS
+## IF / ELSE CONDITIONALS
+## IF / ELSE CONDITIONALS
+
+## PYTHON
+if WhateverCondition:
+    print("If WhateverCondition is True, then do whatever conditional operation")
+else:
+    print("...else:  then do something else")
+
+## JAVASCRIPT
+if (WhateverCondition) {
+     console.log("If WhateverCondition is true");
+} 
+// console.log("else AlternateCondition goes here");
+
+
+## EQUIVALENCY OPERATOR
+## EQUIVALENCY OPERATOR
+## EQUIVALENCY OPERATOR
+
+## PYTHON
+if 1 == 1:  ## WhateverCondition
+    print("If WhateverCondition is True, then do whatever conditional operation")
+else:
+    print("...else:  then do something else")
+
+## JAVASCRIPT
+if (1 == 1) { // WhateverCondition
+     console.log("If WhateverCondition is true");
+} 
+// console.log("else AlternateCondition goes here");
+
+
+
+
+
+
+
+
+
+
 ## CREATE LIST / ARRAY
 ## CREATE LIST / ARRAY
 ## CREATE LIST / ARRAY
