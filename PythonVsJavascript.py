@@ -67,6 +67,33 @@ if (WhateverCondition) {
      console.log("else AlternateCondition goes here");
 }
 
+
+## IF / ELSE IF / ELSE CONDITIONALS
+## IF / ELSE IF / ELSE CONDITIONALS
+## IF / ELSE IF / ELSE CONDITIONALS
+
+## PYTHON
+if WhateverCondition:
+    return()
+elif ElseIfCondition:
+    return()
+else:
+    return()
+
+## JAVASCRIPT
+if (WhateverCondition) {
+  return();
+} else if (ElseIfCondition) {
+  return();
+} else {
+  return();
+}
+
+
+
+
+
+
 ## EQUIVALENCY OPERATOR
 ## EQUIVALENCY OPERATOR
 ## EQUIVALENCY OPERATOR
