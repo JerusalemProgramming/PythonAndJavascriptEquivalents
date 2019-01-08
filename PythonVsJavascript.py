@@ -63,9 +63,9 @@ else:
 ## JAVASCRIPT
 if (WhateverCondition) {
      console.log("If WhateverCondition is true");
-} 
-// console.log("else AlternateCondition goes here");
-
+} else {
+     console.log("else AlternateCondition goes here");
+}
 
 ## EQUIVALENCY OPERATOR
 ## EQUIVALENCY OPERATOR
@@ -80,9 +80,9 @@ else:
 ## JAVASCRIPT
 if (1 == 1) { // WhateverCondition
      console.log("If WhateverCondition is true");
-} 
-// console.log("else AlternateCondition goes here");
-
+} else {
+     console.log("else AlternateCondition goes here");
+}
 
 
 
