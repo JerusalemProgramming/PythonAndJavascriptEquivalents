@@ -137,10 +137,10 @@ PythonList = []
 var JavascriptArray = [];
 let JavascriptArray = [];
 
-## ADD ELEMENT TO LIST / ARRAY
-## ADD ELEMENT TO LIST / ARRAY
-## ADD ELEMENT TO LIST / ARRAY
 
+## ADD ELEMENT TO LIST / ARRAY
+## ADD ELEMENT TO LIST / ARRAY
+## ADD ELEMENT TO LIST / ARRAY
 
 ## PYTHON
 PythonList.append(AnyVariableName)
@@ -160,7 +160,6 @@ PythonList.pop(AnyVariableName)
 var JavascriptArray.pop(AnyVariableName);
 
 
-
 ## CREATE PYTHON DICTIONARY / JAVASCRIPT OBJECT
 ## CREATE PYTHON DICTIONARY / JAVASCRIPT OBJECT
 ## CREATE PYTHON DICTIONARY / JAVASCRIPT OBJECT
@@ -172,12 +171,13 @@ PythonDictionary = {}
 var JavascriptObject = {};
 
 
+
+
 ## FOR LOOPS
 ## FOR LOOPS
 ## FOR LOOPS
 
 ## PYTHON
-
 i = 0   ## INITIALIZE COUNTER VARIABLE
 PythonList = []  ## CREATE EMPTY PYTHON LIST
 RangeOfIntegerNumbers = list(range(5)) ## SET RANGE OF INTEGERS FOR FOR LOOP
