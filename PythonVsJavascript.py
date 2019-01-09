@@ -172,6 +172,26 @@ PythonDictionary = {}
 var JavascriptObject = {};
 
 
+## FOR LOOPS
+## FOR LOOPS
+## FOR LOOPS
+
+## PYTHON
+
+i = 0   ## INITIALIZE COUNTER VARIABLE
+PythonList = []  ## CREATE EMPTY PYTHON LIST
+RangeOfIntegerNumbers = list(range(5)) ## SET RANGE OF INTEGERS FOR FOR LOOP
+for each in RangeOfIntegerNumbers:
+    PythonList.append(each)
+    i += 1 ## i = i + 1  ## INCREMENT COUNTER
+
+## JAVASCRIPT
+var JavascriptArray = [];   ## CREATE EMPTY JAVASCRIPT ARRAY
+for (var i = 0; i < 5; i++) {  ## INITIALIZE COUNTER; SET RANGE OF INTEGERS FOR FOR LOOP; INCREMENT COUNTER
+  JavascriptArray.push(i);
+}
+
+
 
 ## GAME OVER
     
