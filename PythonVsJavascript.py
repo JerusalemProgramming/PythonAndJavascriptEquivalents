@@ -17,7 +17,7 @@ AnyVariableName = "Whatever String, Number, or other Object"
 ## JAVASCRIPT
 var AnyVariableName = "Whatever String, Number, or other Object";
 let AnyVariableName = "Whatever String, Number, or other Object";
-
+const AnyVariableName = "ES6 - Whatever String, Number, or other Object in ES6";
 
 ## PRINT TO CONSOLE
 ## PRINT TO CONSOLE
